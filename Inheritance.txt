@@ -2,3 +2,5 @@ Superclass - Parent Class
 SubClass - Child class
 Override - Annotation
 Method - inheritance can be applied only on this.
+
+This is the master version of the file.
