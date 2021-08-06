@@ -1,6 +1,9 @@
 Superclass - Parent Class
 SubClass - Child class
 Override - Annotation
-Method - inheritance can be applied only on this.
+Method
+
+Inheritance definition -  Non-static members of Parent class is inherited to the child class objects. 
+Inheritance uses - used for better code reusablility
 
 This is the master version of the file.
