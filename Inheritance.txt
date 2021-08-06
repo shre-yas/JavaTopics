@@ -3,6 +3,7 @@ SubClass - Child class
 Override - Annotation
 Method
 
-
 Inheritance definition -  Non-static members of Parent class is inherited to the child class objects. 
-Inheritance uses - used for better code reusablility.
+Inheritance uses - used for better code reusablility
+
+This is the master version of the file.
